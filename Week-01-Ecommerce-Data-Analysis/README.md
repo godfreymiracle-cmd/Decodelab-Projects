@@ -46,3 +46,8 @@ This project focuses on analyzing an e-commerce dataset using Microsoft Excel. T
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
+
+---
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
