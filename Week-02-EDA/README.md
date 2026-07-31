@@ -43,4 +43,6 @@ This project explores an e-commerce dataset using Microsoft Excel to uncover bus
 ## Files
 
 - DECODELABS PROJECT.xlsx
-- DECODELABS DASHBOARD PROJECT 2
+- ## 📊 Dashboard Preview
+
+![EDA Dashboard](dashboard-project-2.png)
