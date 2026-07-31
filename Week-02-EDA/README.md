@@ -1,24 +1,46 @@
-# Week 2: Exploratory Data Analysis (EDA)
+# DecodeLabs Project 2 — Exploratory Data Analysis (EDA)
 
 ## Project Overview
 
-This project focuses on performing Exploratory Data Analysis (EDA) on an e-commerce dataset using Microsoft Excel.
+This project explores an e-commerce dataset using Microsoft Excel to uncover business insights through Exploratory Data Analysis (EDA).
 
 ## Objectives
 
-- Explore the dataset
-- Calculate descriptive statistics
-- Identify trends and patterns
+- Perform descriptive statistics
+- Analyze data distribution
+- Identify trends over time
 - Detect outliers
-- Generate business insights
+- Explore relationships between variables
+- Build an interactive dashboard
 
 ## Tools Used
 
 - Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Histograms
+- Column Charts
+- Line Charts
 
-## Skills Demonstrated
+## Dashboard Highlights
 
-- Exploratory Data Analysis
-- Descriptive Statistics
+- Distribution Analysis
 - Trend Analysis
-- Business Insights
+- Relationship Analysis
+- Key Business Insights
+- Interactive Filters
+
+## Key Findings
+
+- Instagram generated the highest revenue.
+- Credit Card was the highest revenue payment method.
+- Chair generated the highest product revenue.
+- Cancelled orders generated the highest order value.
+- Orders with 5–6 items produced the highest revenue.
+- No significant outliers were detected using the IQR method.
+
+## Files
+
+- DECODELABS PROJECT.xlsx
+- DECODELABS DASHBOARD PROJECT 2
