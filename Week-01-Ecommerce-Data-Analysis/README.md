@@ -48,6 +48,9 @@ This project focuses on analyzing an e-commerce dataset using Microsoft Excel. T
 - Data Visualization
 
 ---
+
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+The dashboard provides an interactive overview of the e-commerce dataset, highlighting key business metrics such as revenue, profit, customer behavior, product performance, and sales trends.
+
+![Project 1 Dashboard](Dashboard.png)
