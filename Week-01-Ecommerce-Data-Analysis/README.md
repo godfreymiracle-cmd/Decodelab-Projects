@@ -48,9 +48,10 @@ This project focuses on analyzing an e-commerce dataset using Microsoft Excel. T
 - Data Visualization
 
 ---
-
+- Files
+- Chart_Project_1.png
+- Pivot_Table_Project_1.png
 ## Dashboard Preview
-
 The dashboard provides an interactive overview of the e-commerce dataset, highlighting key business metrics such as revenue, profit, customer behavior, product performance, and sales trends.
 
-![Week-01-Ecommerce-Data-Analysis](DECODELAB%20PROJECT%201/dashboard.png)
+![Dashboard Preview](Dashboard.png)
