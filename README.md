@@ -4,7 +4,6 @@ This repository contains the projects I completed during my DecodeLab Data Analy
 
 Skills Demonstrated,
 Microsoft Excel,
-SQL,
 Power BI,
 Data Cleaning,
 Exploratory Data Analysis (EDA),
